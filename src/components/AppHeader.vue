@@ -26,4 +26,7 @@ export default {};
   display: flex;
   align-items: center;
 }
+.header-content--title{
+  font-size: 2rem;
+}
 </style>
