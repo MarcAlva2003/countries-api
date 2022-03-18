@@ -60,7 +60,6 @@ export default {
 <style>
 .countries-list-container {
   margin-top: 20px;
-  row-gap: 40px;
   width: 100%;
   display: flex;
   flex-wrap: wrap;
@@ -73,6 +72,7 @@ export default {
   min-width: 250px;
   max-width: 250px;
   height: 380px;
+  margin-top: 40px;
   background-color: #fff;
 }
 @media (max-width: 570px){
