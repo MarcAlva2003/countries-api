@@ -1,7 +1,7 @@
 # proyecto-countries
 
-##Para visitarlo:
-###https://restcountries-api-project.netlify.app/
+Para visitarlo: 
+https://restcountries-api-project.netlify.app/
 
 ## Project setup
 ```
