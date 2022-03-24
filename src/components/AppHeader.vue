@@ -27,6 +27,6 @@ export default {};
   align-items: center;
 }
 .header-content--title{
-  font-size: 2rem;
+  font-size: 2.2rem;
 }
 </style>
